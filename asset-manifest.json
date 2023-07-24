@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/train-react-lecture/static/css/main.7acaea2f.css",
-    "main.js": "/train-react-lecture/static/js/main.07d3183d.js",
+    "main.css": "/train-react-lecture/static/css/main.aaaf48ca.css",
+    "main.js": "/train-react-lecture/static/js/main.db28872d.js",
     "index.html": "/train-react-lecture/index.html",
-    "main.7acaea2f.css.map": "/train-react-lecture/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/train-react-lecture/static/js/main.07d3183d.js.map"
+    "main.aaaf48ca.css.map": "/train-react-lecture/static/css/main.aaaf48ca.css.map",
+    "main.db28872d.js.map": "/train-react-lecture/static/js/main.db28872d.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.aaaf48ca.css",
+    "static/js/main.db28872d.js"
   ]
 }

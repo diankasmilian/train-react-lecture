@@ -1,5 +1,5 @@
-import { createSlice } from "@reduxjs/toolkit";
-import { fetchTasks, addTask, deleteTask, toggleCompleted } from "./operations";
+import { createSlice } from '@reduxjs/toolkit';
+import { fetchTasks, addTask, deleteTask, toggleCompleted } from './operations';
 
 const handlePending = state => {
   state.isLoading = true;
@@ -10,7 +10,7 @@ const handleRejected = (state, action) => {
 };
 
 const tasksSlice = createSlice({
-  name: "tasks",
+  name: 'tasks',
   initialState: {
     items: [],
     isLoading: false,
